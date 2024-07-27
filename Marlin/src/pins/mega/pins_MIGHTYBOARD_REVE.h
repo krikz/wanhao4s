@@ -181,6 +181,7 @@
   #endif
 #endif
 
+#define FAN_PIN                     MOSFET_6_PIN
 //
 // Misc. Functions
 //
